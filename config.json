@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvarse",
+        "uuid": 25269072,
+        "checksum": "somvcb"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
